@@ -8,7 +8,7 @@ height = 1000
 const = 100
 d = 257
 t = 257
-n = 10
+n = 500
 
 win = graphics.GraphWin("PI", width, height)
 pi_win = graphics.GraphWin("PI", 200, 100)
