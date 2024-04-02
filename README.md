@@ -10,10 +10,4 @@ See the theories at these links :
 For the first one run ' PI by Dots/Dot PI.py '<br/>
 For the second one run ' PI by Needles/Needle PI.py '
 
-## Authors
 
-* **Mohmmad Afzali**
-
-## License
-
-This project is licensed under the GOD License :)
